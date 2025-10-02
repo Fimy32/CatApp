@@ -1,4 +1,5 @@
 fun main() {
+    var Tristan = Student.Student(723, "Tristan Hall", "Software Engineering")
 
 }
 
